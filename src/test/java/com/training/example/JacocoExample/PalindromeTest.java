@@ -7,7 +7,7 @@ import org.junit.Test;
 public class PalindromeTest {
 
 	@Test
-	public void whenEmptyString_thenAccept() {
+	public void whenEmptyStringThenAccept() {
 	    Palindrome palindromeTester = new Palindrome();
 	    assertTrue(palindromeTester.isPalindrome("madam"));
 	}
