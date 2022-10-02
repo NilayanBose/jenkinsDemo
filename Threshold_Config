@@ -1,5 +1,5 @@
 <execution>
-    <id>jacoco-check</id>
+    <id>jenkins-check</id>
     <goals>
         <goal>check</goal>
     </goals>
